@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "push-debug": {
+      "executablePath": "E:\\\\nuget-local\\\\deploy-debug-package.bat",
+      "commandLineArgs": "$(TargetDir)\\Debug\\Bingzer.Butler.*.nupkg"
+    }
+  }
+}
