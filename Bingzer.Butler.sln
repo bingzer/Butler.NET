@@ -14,8 +14,6 @@ Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Bingzer.Butler", "src\Bingz
 EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Bingzer.Butler.Middlewares", "src\Bingzer.Butler.Middlewares\Bingzer.Butler.Middlewares.xproj", "{21D0E535-2B83-495A-8552-2E542380524A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bingzer.AuthService", "src\Bingzer.AuthService\Bingzer.AuthService.csproj", "{24AD79C2-504B-41E6-BB14-784320404499}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
